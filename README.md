@@ -14,6 +14,10 @@ To run the file, the following packages are required.
 # Usage
 
 * Only the "setup.py" python file must be run
+* Should any problems be encounter with the raw dataset files, the .csv files may be found on the Data section of
+  https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge. Simply download these files and add them to the data/00_raw/
+  directory.
+  
 
 # Author's Note
 
